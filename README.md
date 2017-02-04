@@ -1,2 +1,3 @@
-# restaurant
-Laioffer Project Class (Chihuo). A restaurant recommendation app.
+# Personalized Restaurant Recommendation Web Service
+A restaurnt recommendation web app && android app.
+
