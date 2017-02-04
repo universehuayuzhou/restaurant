@@ -1,3 +1,3 @@
 # Personalized Restaurant Recommendation Web Service
-A restaurnt recommendation web app && android app.
+A restaurant recommendation web app && android app.
 
